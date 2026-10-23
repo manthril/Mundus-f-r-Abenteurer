@@ -1,17 +1,5 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "quartz-infobox": {
-      "source": "../quartz-infobox",
-      "resolved": "/home/kevin/Dokumente/TTRPG/quartz-infobox",
-      "commit": "local",
-      "installedAt": "2026-10-23T07:15:18.774Z"
-    },
-    "quartz-leaflet-bases-plugin": {
-      "source": "github:Requiae/quartz-leaflet-bases-plugin",
-      "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
-      "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
-      "installedAt": "2026-10-23T07:15:19.905Z"
     }
-  }
 }
