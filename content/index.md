@@ -9,5 +9,3 @@ Dieses magische Werk soll Heldengruppen und Abenteurer durch die magische und ge
 Geralt Kiesbringer
 
 
-
-# Inhalt
